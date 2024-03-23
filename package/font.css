@@ -1,0 +1,7 @@
+@import url('https://drive.google.com/file/d/1RRT26_bRxM7xMo3Q9Q_VPrMFgjQorC5h/');
+
+html *, body * [class*="css"] {
+    font-family: 'South Park', regular !important;
+    font-weight: 500;
+    color: #ffffff;
+}

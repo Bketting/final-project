@@ -1,0 +1,23 @@
+# standard
+ipdb
+ipykernel
+numpy
+pandas
+pathlib
+
+# app specific
+accelerate
+transformers
+llama-cpp-python
+chromadb
+langchain_community
+sentencepiece
+
+# API
+fastapi
+uvicorn
+pytz
+python-multipart
+websockets
+streamlit-javascript
+streamlit
